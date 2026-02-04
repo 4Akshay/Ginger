@@ -1,6 +1,7 @@
 #Ingore directories
 HandsOnCpp/x64
 HandsOnCpp/HandsOnCpp
+.vs/
 
 # Prerequisites
 *.d
